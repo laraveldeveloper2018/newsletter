@@ -2,7 +2,6 @@
     "name": "najafi/newsletter",
     "description": "This package for used newsletters",
     "license": "MIT",
-    "version": "1",
     "authors": [
         {
             "name": "Ali Najafi",
